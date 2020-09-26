@@ -1,4 +1,3 @@
-  
 *{
   box-sizing: border-box;
   margin: 0 auto;
@@ -20,6 +19,15 @@ main{
   margin-top: 30px;
   
 }
+
+#icon2 {
+  margin-left: 0px;
+}
+
+#delicousFork {
+  float: left;
+}
+
 #logo {
   margin-right: 0px;
   margin-top: 10px;
@@ -28,19 +36,13 @@ main{
 #logo2 {
   vertical-align: 7px;
 }
+
 #CompanyName {
   margin-bottom: 5px;
 }
 
-#icon2 {
-  margin-left: 0px;
-}
-
-#mini {
+#space {
   padding-left: 8px;
-}
-#delicousFork {
-  float: left;
 }
 
 #chocolate-header {
@@ -48,7 +50,7 @@ main{
 }
 
 
-#chocolate-header2 {
+#chocolate-headerb {
   margin-bottom: 40px;
   display: flex;
   grid-template-rows: 1fr 1fr 1fr;
@@ -107,6 +109,7 @@ main{
   list-style-type: square ;
   line-height: 30px;
 }
+
 #border {
   background-image: url(https://raw.githubusercontent.com/codefellows/seattle-201d66/master/class-10/lab/hr-img.png);
   background-repeat: repeat;
